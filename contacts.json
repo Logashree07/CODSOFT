@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Logashree",
+        "phone": "1237893450",
+        "email": "logs@gmail.com",
+        "address": "123, xyz street, chennai-601234"
+    },
+    {
+        "name": "Divya",
+        "phone": "7891234560",
+        "email": "div@gmail",
+        "address": "123,678 street, chn"
+    },
+    {
+        "name": "Ramya",
+        "phone": "7824125702",
+        "email": "ramya@gmail",
+        "address": "xxx, xx street, chn"
+    }
+]
